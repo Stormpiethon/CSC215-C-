@@ -1,3 +1,0 @@
-﻿  Main.cpp
-C:\Users\alebritt\Documents\Mission to Mars\Main.cpp(90,13): warning C4553: '==': result of expression not used; did you intend '='?
-  Mission to Mars.vcxproj -> C:\Users\alebritt\Documents\Mission to Mars\x64\Debug\Mission to Mars.exe
